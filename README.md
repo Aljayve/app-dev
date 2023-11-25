@@ -2,9 +2,9 @@
 My first Repository
 
 # My Favorite Movies
-** My Favorite Movies **
-1. Hulk
-2. Harry Potter
+**My Favorite Movies**
+1. Hulk - *The Hulk movie is awesome because it captures the duality of Bruce Banner's character, showcasing both his brilliance as a scientist and his destructive power as the Hulk. The film also features thrilling action sequences and a compelling storyline that explores the themes of rage, control, and self-acceptance.*
+2. Harry Potter - *
 3. Avengers
 4. Aquaman
 5. Everything Everywhere All at Once
@@ -19,7 +19,6 @@ My first Repository
 14.  G.I Joe
 15.  Transformer
 16.  Bumble bee
-17.  
 
 # My Favorite Series
 - The walking dead
@@ -30,4 +29,3 @@ My first Repository
 - The falcon and the winter soldier
 - [WandaVision](https://www.marvel.com/tv-shows)
 - [Hawkeye](https://www.marvel.com/tv-shows)
-- 
